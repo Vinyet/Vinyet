@@ -13,7 +13,7 @@ Actualmente me dedico a formar a nuevos programadores en [Clover](http://cloverl
 - Formación en periodismo, marketing y publicidad digital
 - Me interesa el blockchain
 - Soy una friki de la historia de Internet
-- Soy trilingüe (es, cat, eng)
+- Me gustan los idiomas (cat, es, eng, de)
 
 ## Mis proyectos
 
