@@ -10,10 +10,10 @@ Actualmente me dedico a formar a nuevos programadores en [Clover](http://cloverl
 
 ## Más sobre mí
 
-- Formación en periodismo, marketing y publicidad digital
-- Me interesa el blockchain
+- Formación en periodismo y marketing 
+- Me interesa el blockchain y las IA
 - Soy una friki de la historia de Internet
-- Me gustan los idiomas (cat, es, eng, de)
+
 
 ## Mis proyectos
 
