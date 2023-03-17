@@ -22,5 +22,6 @@ Actualmente me dedico a formar a nuevos programadores en [Clover](http://cloverl
 - [To do list](https://github.com/Vinyet/todotoday)
 - [Prioritizer](https://github.com/Vinyet/prioritizer)
 - [Porfolio](https://github.com/Vinyet/porfolio)
+- [Next Posts](https://github.com/Vinyet/next-posts)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinyet&show_icons=true&theme=dracula&hide_border=true)](https://github.com/Vinyet/github-readme-stats)
