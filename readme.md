@@ -4,16 +4,15 @@
 
 Soy desarrolladora web front-end.
 
-Actualmente me dedico a formar a nuevos programadores en [Clover](http://cloverlab.es/) y a programar en mis ratos libres.
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinyet&show_icons=true&theme=dracula&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## Más sobre mí
 
-- Formación en periodismo y marketing 
+- Graduada en Periodismo
+- Formación en Marketing Digital, SEO y SEM
+- Inglés nivel fluido (C2)
 - Me interesa el blockchain y las IA
-- Soy una friki de la historia de Internet
-
+- Soy una friki de la historia de Internet y la evolución de la tecnología
 
 ## Mis proyectos
 
