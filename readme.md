@@ -1,6 +1,6 @@
 # Hola, soy [Vinyet](https://www.linkedin.com/in/vinyetescribano/)
 
-## Bienvenidos a mi Github ![visitors](https://visitor-badge.glitch.me/badge?page_id=${251380561}) ![GitHub Repo stars](https://img.shields.io/github/stars/vinyet/bizzlock?style=social)
+## Bienvenidos a mi Github 
 
 Soy desarrolladora web front-end.
 
